@@ -1,0 +1,21 @@
+[submodule "riscv-dnn"]
+	path = riscv-dnn
+	url = https://github.com/riscv-stc/riscv-dnn
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/riscv/riscv-gnu-toolchain
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/riscv-stc/llvm-project
+[submodule "riscv-isa-sim"]
+	path = riscv-isa-sim
+	url = https://github.com/riscv-stc/riscv-isa-sim
+[submodule "riscv-pvp-matrix"]
+	path = riscv-pvp-matrix
+	url = https://github.com/riscv-stc/riscv-pvp-matrix
+[submodule "riscv-matrix-spec"]
+	path = riscv-matrix-spec
+	url = https://github.com/riscv-stc/riscv-matrix-spec
+[submodule "chipyard"]
+	path = chipyard
+	url = https://github.com/riscv-stc/chipyard
